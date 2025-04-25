@@ -103,4 +103,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/dashuaige627/my-blog-01.git
-  branch: gh-pages
+  branch: main
